@@ -2,7 +2,7 @@
 title: Home Page
 ---
 
-This is the home page of Aria Campbell's CM3 website.
+This is the home page of Aria's CM3 website.
 
 ## A smaller level Heading
 
