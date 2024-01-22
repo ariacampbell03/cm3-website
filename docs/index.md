@@ -8,11 +8,11 @@ This is the home page of Aria's CM3 website.
 
 ### And even smaller
 
-Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicise. For a new para, you need to hit return at-least twice.
+Just write to start a para. Use `**word**` to bold **word**. Use `*word*` to italicize. For a new para, you need to hit return at least twice.
 
 This is another para.
 
-In this one we show some lists. just start the list on the next line after hitting one return:
+In this one, we show some lists. just start the list on the next line after hitting one return:
 - an item
 - another item
 
