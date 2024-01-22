@@ -16,7 +16,7 @@ In this one, we show some lists. just start the list on the next line after hitt
 - an item
 - another item
 
-In this new para we create a numbered list using numbers.
+In this new para, we create a numbered list using numbers.
 1. first item
 2. second item
 
